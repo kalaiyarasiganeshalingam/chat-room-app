@@ -1,0 +1,7 @@
+[package]
+org = "kalaiyarasiganeshalingam"
+name = "chat_room_service"
+version = "0.1.0"
+
+[build-options]
+observabilityIncluded = true
